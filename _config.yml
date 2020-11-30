@@ -17,7 +17,6 @@ title: A Mindful Machine
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, my name is Paolo. I work on computers and signals. This site helps me communicate.
-twitter_username: 
 github_username: palol
 minimal_mistakes_skin: dark
 search: false
@@ -58,34 +57,22 @@ plugins:
 
 
 author:
-  name   : "First Lastname"
+  name   : "Paolo Gabriel"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Shallow sensing."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://pgabriel.gitlab.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/palol"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
